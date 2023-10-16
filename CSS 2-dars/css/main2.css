@@ -1,0 +1,149 @@
+@font-face {
+
+}
+
+
+
+body{
+    font-style: italic;
+    font-weight: bold;
+    background-color: whitesmoke;
+}
+.sub-menu{
+    border-right: lightgray;
+    background-color: white;
+    width: 600px;
+    height: 155px;
+}
+.sub-menu-item{
+    position: relative;
+    top: -140px;
+    left: 440px;
+}
+.navbar-menu{
+    content: '';
+    border: 20px solid transparent;
+    border-left-color: white;
+    position: absolute;
+    left: 600px;
+    bottom: 60px;
+}
+.sub-menu2{
+    background-color: white;
+    width: 140px;
+    height: 140px;
+}
+.sub-menu-item2{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.sub-menu-item2 p{
+    color: white;
+}
+.sub-menu3{
+    border-right: lightgray;
+    background-color: white;
+    width: 600px;
+    height: 155px;
+}
+.sub-menu-item3{
+    position: relative;
+    top: -140px;
+    left: 40px;
+}
+.navbar-menu2{
+    content: '';
+    border: 20px solid transparent;
+    border-left-color: white;
+    position: absolute;
+    left: -40px;
+    bottom: 60px;
+    transform: rotate(180deg);
+}
+.sub-menu4{
+    background-color: white;
+    width: 140px;
+    height: 140px;
+}
+.sub-menu-item4{
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+
+}
+.sub-menu-item4 p {
+    color: white;
+}
+.sub-menu5{
+    border-right: lightgray;
+    background-color: white;
+    width: 600px;
+    height: 155px;
+}
+.sub-menu-item5{
+    position: relative;
+    top: -140px;
+    left: 440px;
+}
+.navbar-menu3{
+    content: '';
+    border: 20px solid transparent;
+    border-left-color: white;
+    position: absolute;
+    left: 600px;
+    bottom: 60px;
+}
+.sub-menu6{
+    background-color: white;
+    width: 140px;
+    height: 140px;
+}
+.sub-menu-item6{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+.sub-menu-item6 p{
+    color: white;
+}
+.sub-menu7{
+    border-right: lightgray;
+    background-color: white;
+    width: 600px;
+    height: 155px;
+}
+.sub-menu-item7{
+    position: relative;
+    top: -140px;
+    left: 40px;
+}
+.navbar-menu4{
+    content: '';
+    border: 20px solid transparent;
+    border-left-color: white;
+    position: absolute;
+    left: -40px;
+    bottom: 60px;
+    transform: rotate(180deg);
+}
+.sub-menu8{
+    background-color: white;
+    width: 140px;
+    height: 140px;
+}
+.sub-menu-item8{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+
+}
+.sub-menu-item8 p {
+    color: white;
+}
